@@ -4,7 +4,7 @@ Napisanie aplikacji pogodowej zacząłem od znalezienia odpowiedniego API. Wg. I
 
 Do zrealizowania projektu potrzebowałem również zainstalowanego axiosa w celu wyciągnięcia niezbędnych danych z ww. API. Dodatkowo wykorzystałem również Semantic UI
 
-##Aplikacja dzieli się na: 
+## Aplikacja dzieli się na: 
 
 Index.js – jest to główny plik wywołujący program.
 App.js – w nim znajdują się w nim połączenia z API jak i wywołania wyświetlania modułów aplikacji.
